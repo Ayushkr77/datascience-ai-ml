@@ -1,4 +1,4 @@
-# Step 7 — Git & Version Control (Lesson 7)
+# Step 7 — Git & Version Control
 
 Git tracks changes in your code and notebooks.
 
