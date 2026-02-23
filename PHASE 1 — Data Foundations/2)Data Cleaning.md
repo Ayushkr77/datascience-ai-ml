@@ -258,6 +258,11 @@ upper = Q3 + 1.5 * IQR
 df = df[(df["salary"] >= lower) & (df["salary"] <= upper)]
 ```
 
+```
+Min    Q1      Median      Q3       Max      Outlier (can be on left also, beyond min)
+ |------|=========|=========|--------|          ●
+```
+
 Always ask:
 
 Is it an error?  
